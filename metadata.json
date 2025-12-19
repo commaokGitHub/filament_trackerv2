@@ -1,0 +1,5 @@
+{
+  "name": "FilamentFlow",
+  "description": "A professional-grade 3D printing filament inventory and usage tracker to manage spools, monitor levels, and log print jobs with visual analytics.",
+  "requestFramePermissions": []
+}
